@@ -19,6 +19,8 @@ add_to_apps_screen = [
 		"has_permission": "erpnext.check_app_permission",
 	}
 ]
+#
+
 
 develop_version = "15.x.x-develop"
 
